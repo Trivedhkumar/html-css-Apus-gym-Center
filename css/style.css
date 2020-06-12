@@ -84,6 +84,7 @@ lead {
 
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 /* Padding */
 .py-1 {
@@ -107,7 +108,7 @@ lead {
   color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px;
 }
@@ -159,7 +160,7 @@ lead {
 
 /* Home Info */
 #home-info {
-  height: 400px;
+  height: 450px;
 }
 
 #home-info .info-img {
@@ -217,7 +218,7 @@ lead {
 
 /* Tesimonials */
 #testimonials {
-  height: 600px;
+  height: 100%;
   background: url("https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
     no-repeat center center/cover;
   padding-top: 100px;
